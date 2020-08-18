@@ -8,3 +8,9 @@
  */
 
 rootProject.name = "IaCCIS"
+
+include ("business")
+include ("remote")
+include ("main")
+include ("persistence")
+
