@@ -1,0 +1,1 @@
+Initialize doc in asciidoc
